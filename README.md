@@ -48,7 +48,14 @@ Pandas and NumPy for data manipulation
 Matplotlib and Seaborn for data visualization
 
 datetime for time-based insights
-insgihts  got from project
+
+
+
+insgihts  got from project--
+
+
+
+
 📌 Inconsistencies in Doctor Specialization vs. Treatment
 A doctor with a Dermatology/Pediatrics background is recommending chemotherapy at high frequency, which suggests a possible misclassification or role mismatch.
 
